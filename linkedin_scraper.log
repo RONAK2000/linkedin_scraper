@@ -1,0 +1,251 @@
+2025-06-26 03:08:25,314 - INFO - Logging in...
+2025-06-26 03:08:34,497 - INFO - Logged in. Navigating to job search...
+2025-06-26 03:08:42,418 - INFO - 
+Scraping Page 1
+2025-06-26 03:08:42,454 - INFO - Scrolling to load more job listings...
+2025-06-26 03:09:04,774 - INFO - Found 7 job cards
+2025-06-26 03:09:04,834 - INFO - Job 1 saved: Product Management Intern @ Rapido
+2025-06-26 03:09:04,873 - INFO - Job 2 saved: Product Manager-Trade Product @ YES BANK
+2025-06-26 03:09:04,907 - INFO - Job 3 saved: Management Trainee- Product Development @ Bharti AXA Life Insurance
+2025-06-26 03:09:04,943 - INFO - Job 4 saved: Assistant Product Manager @ KredX
+2025-06-26 03:09:04,978 - INFO - Job 5 saved: Product Manager @ GoodScore
+2025-06-26 03:09:05,020 - INFO - Job 6 saved: Product Manager @ Weekday AI (YC W21)
+2025-06-26 03:09:05,054 - INFO - Job 7 saved: Product Manager - Insurance @ Airtel Payments Bank
+2025-06-26 03:09:05,062 - INFO - Clicking next page...
+2025-06-26 03:09:10,678 - INFO - 
+Scraping Page 2
+2025-06-26 03:09:10,692 - INFO - Scrolling to load more job listings...
+2025-06-26 03:09:33,007 - INFO - Found 23 job cards
+2025-06-26 03:09:33,053 - INFO - Job 1 saved: Product Manager- Home Loan @ YES BANK
+2025-06-26 03:09:33,097 - INFO - Job 2 saved: Associate Product Manager @ Kissht
+2025-06-26 03:09:33,135 - INFO - Job 3 saved: Product Manager - B2C @ Weekday AI (YC W21)
+2025-06-26 03:09:33,251 - INFO - Job 4 saved: Senior Product Manager @ Airtel Payments Bank
+2025-06-26 03:09:33,292 - INFO - Job 5 saved: Product Manager @ Vivriti Capital
+2025-06-26 03:09:33,334 - INFO - Job 6 saved: Product Manager @ Google
+2025-06-26 03:09:33,384 - INFO - Job 7 saved: Product Manager @ Ivoclar
+2025-06-26 03:09:33,437 - INFO - Job 8 saved: Product Management Intern @ InterviewVector
+2025-06-26 03:09:33,503 - INFO - Job 9 saved: Product Manager @ BiteSpeed
+2025-06-26 03:09:33,558 - INFO - Job 10 saved: Junior Product Manager @ Mentorpal.ai Tech Hiring
+2025-06-26 03:09:33,620 - INFO - Job 11 saved: Product Manager @ Ajanta Pharma Ltd
+2025-06-26 03:09:33,675 - INFO - Job 12 saved: Associate Product Manager (1 to 2 years) @ ProManage.biz
+2025-06-26 03:09:33,732 - INFO - Job 13 saved: Product Manager Filtration @ Busch Vacuum Solutions
+2025-06-26 03:09:33,784 - INFO - Job 14 saved: Growth Product Manager @ EssentiallySports
+2025-06-26 03:09:33,841 - INFO - Job 15 saved: IT Product Manager @ PyjamaHR
+2025-06-26 03:09:33,915 - INFO - Job 16 saved: Associate Product Manager / Product Manager @ Ubisoft India Studios
+2025-06-26 03:09:33,975 - INFO - Job 17 saved: Product Manager - Digital Initiatives @ Ujjivan Small Finance Bank
+2025-06-26 03:09:34,020 - INFO - Job 18 saved: Product Manager- Member Self-Service @ Sagitec Solutions
+2025-06-26 03:09:34,078 - INFO - Job 19 saved: Product Manager @ Protium
+2025-06-26 03:09:34,105 - INFO - Job 20 saved: Product Manager, Website @ Atlan
+2025-06-26 03:09:34,134 - INFO - Job 21 saved: Product Manager @ Vervent
+2025-06-26 03:09:34,179 - INFO - Job 22 saved: Product Delivery Manager @ Collegedunia
+2025-06-26 03:09:34,228 - INFO - Job 23 saved: Product Manager @ GoKhana
+2025-06-26 03:09:34,234 - INFO - Clicking next page...
+2025-06-26 03:09:39,812 - INFO - 
+Scraping Page 3
+2025-06-26 03:09:39,835 - INFO - Scrolling to load more job listings...
+2025-06-26 03:10:02,140 - INFO - Found 21 job cards
+2025-06-26 03:10:02,218 - INFO - Job 1 saved: Associate Product Manager @ JUSPAY
+2025-06-26 03:10:02,363 - INFO - Job 2 saved: Product Manager @ YES BANK
+2025-06-26 03:10:02,432 - INFO - Job 3 saved: Product Manager @ slice
+2025-06-26 03:10:02,530 - INFO - Job 4 saved: Associate Product Manager @ Jeebly
+2025-06-26 03:10:02,598 - INFO - Job 5 saved: IT Product Manager @ PyjamaHR
+2025-06-26 03:10:02,660 - INFO - Job 6 saved: Product Manager @ Weekday AI (YC W21)
+2025-06-26 03:10:02,704 - INFO - Job 7 saved: Associate Product Manager / Product Manager @ BuzzBoard
+2025-06-26 03:10:02,751 - INFO - Job 8 saved: Product Manager @ Aspire
+2025-06-26 03:10:02,803 - INFO - Job 9 saved: Senior Product Manager @ Ajanta Pharma Ltd
+2025-06-26 03:10:02,849 - INFO - Job 10 saved: New Product Development Manager @ Job Join HR Consultants
+2025-06-26 03:10:02,890 - INFO - Job 11 saved: Assistant Product Manager (SAP Project System) @ Infosys BPM
+2025-06-26 03:10:02,930 - INFO - Job 12 saved: Senior Product Manager / Group Product Manager - Cardiology @ MSN Laboratories
+2025-06-26 03:10:02,970 - INFO - Job 13 saved: Product Manager @ Rooter.gg
+2025-06-26 03:10:03,012 - INFO - Job 14 saved: Associate Product Manager 2 @ Titan
+2025-06-26 03:10:03,059 - INFO - Job 15 saved: Associate Product Manager @ Grexa AI
+2025-06-26 03:10:03,099 - INFO - Job 16 saved: Product and Proposition Manager @ Barclays Business Banking
+2025-06-26 03:10:03,126 - INFO - Job 17 saved: Product Team Lead @ GradRight Inc.
+2025-06-26 03:10:03,162 - INFO - Job 18 saved: Associate Product Manager @ Fincent
+2025-06-26 03:10:03,200 - INFO - Job 19 saved: Technical Product Manager @ Visa
+2025-06-26 03:10:03,243 - INFO - Job 20 saved: Product Manager B2C @ AuthBridge
+2025-06-26 03:10:03,280 - INFO - Job 21 saved: Lead - New Launch @ Strides
+2025-06-26 03:10:03,284 - INFO - Clicking next page...
+2025-06-26 03:10:09,337 - INFO - 
+Scraping Page 4
+2025-06-26 03:10:09,361 - INFO - Scrolling to load more job listings...
+2025-06-26 03:10:31,678 - INFO - Found 20 job cards
+2025-06-26 03:10:31,743 - INFO - Job 1 saved: Senior Product Manager (Fully Remote) @ CoverGo | Insurtech
+2025-06-26 03:10:31,802 - INFO - Job 2 saved: Product Manager @ YES BANK
+2025-06-26 03:10:31,860 - INFO - Job 3 saved: Product Manager @ SproutsAI
+2025-06-26 03:10:31,916 - INFO - Job 4 saved: Product Manager @ Placed.
+2025-06-26 03:10:31,968 - INFO - Job 5 saved: Product Development Executive @ India Agro Exports Pvt. Ltd.
+2025-06-26 03:10:32,017 - INFO - Job 6 saved: Chief Manager - Product & Buying @ Marks and Spencer Reliance India Private Limited
+2025-06-26 03:10:32,071 - INFO - Job 7 saved: Product Manager/Associate Product Manager @ BuzzBoard
+2025-06-26 03:10:32,134 - INFO - Job 8 saved: Product Manager I @ Refyne India
+2025-06-26 03:10:32,186 - INFO - Job 9 saved: Asst Manager - New Product Development @ Place of Origin
+2025-06-26 03:10:32,218 - INFO - Job 10 saved: Product Manager @ TAC Security
+2025-06-26 03:10:32,256 - INFO - Job 11 saved: Senior Product Manager (Partner & Delivery Experience) @ Weekday AI (YC W21)
+2025-06-26 03:10:32,318 - INFO - Job 12 saved: Product Manager-II-Search & Recommendations @ Zepto
+2025-06-26 03:10:32,359 - INFO - Job 13 saved: Product Manager @ VAYUZ Technologies
+2025-06-26 03:10:32,403 - INFO - Job 14 saved: Product Manager @ Wonderchef Home Appliances Pvt Ltd.
+2025-06-26 03:10:32,448 - INFO - Job 15 saved: AI Product Development Manager @ Multiplier AI
+2025-06-26 03:10:32,489 - INFO - Job 16 saved: Product Manager @ Elevation Capital
+2025-06-26 03:10:32,536 - INFO - Job 17 saved: Product Manager @ Gameskraft
+2025-06-26 03:10:32,592 - INFO - Job 18 saved: Product Manager-Securitised Products @ IDFC FIRST Bank
+2025-06-26 03:10:32,630 - INFO - Job 19 saved: Product Manager (Supply Chain) @ Furlenco
+2025-06-26 03:10:32,673 - INFO - Job 20 saved: Assistant Product Manager @ Century Real Estate Holdings Pvt Ltd
+2025-06-26 03:10:32,681 - INFO - Clicking next page...
+2025-06-26 03:10:38,464 - INFO - 
+Scraping Page 5
+2025-06-26 03:10:38,485 - INFO - Scrolling to load more job listings...
+2025-06-26 03:11:00,809 - INFO - Found 22 job cards
+2025-06-26 03:11:00,871 - INFO - Job 1 saved: Product Manager @ Agency (THA)
+2025-06-26 03:11:00,920 - INFO - Job 2 saved: Product Manager @ Vivriti Capital
+2025-06-26 03:11:00,959 - INFO - Job 3 saved: Product Manager @ SproutsAI
+2025-06-26 03:11:01,013 - INFO - Job 4 saved: IT Product Manager @ PyjamaHR
+2025-06-26 03:11:01,063 - INFO - Job 5 saved: Product Manager 1 @ ShopDeck
+2025-06-26 03:11:01,114 - INFO - Job 6 saved: Product Manager @ Bankai Infotech
+2025-06-26 03:11:01,170 - INFO - Job 7 saved: Product Manager, eLearning Platform @ JoVE
+2025-06-26 03:11:01,227 - INFO - Job 8 saved: Product Manager @ Petals Careers Private Limited
+2025-06-26 03:11:01,284 - INFO - Job 9 saved: Senior Product Manager-Supply chain @ Zepto
+2025-06-26 03:11:01,344 - INFO - Job 10 saved: Senior Product Manager @ Johnson & Johnson
+2025-06-26 03:11:01,395 - INFO - Job 11 saved: Senior Product Manager/Product Manager @ Zuddl
+2025-06-26 03:11:01,444 - INFO - Job 12 saved: Manager - Product (Gameplay) @ Dream11
+2025-06-26 03:11:01,496 - INFO - Job 13 saved: Product Executive / Product Manager / Senior Product Manager - Neuropsychiatry @ Ipca Laboratories Limited, Kandivali
+2025-06-26 03:11:01,547 - INFO - Job 14 saved: Sr Product Manager - Workfront @ Target
+2025-06-26 03:11:01,604 - INFO - Job 15 saved: Product Manager @ QpiAI
+2025-06-26 03:11:01,650 - INFO - Job 16 saved: Product Manager - AI Platform @ Wadhwani Foundation
+2025-06-26 03:11:01,704 - INFO - Job 17 saved: Principal Product Manager - Trust LLM and Decisioning Platforms @ LinkedIn
+2025-06-26 03:11:01,754 - INFO - Job 18 saved: Product Manager (Dashboard & Visualisations) @ Diligent
+2025-06-26 03:11:01,810 - INFO - Job 19 saved: Product Manager @ Meril
+2025-06-26 03:11:01,869 - INFO - Job 20 saved: Product Manager @ Volante Technologies
+2025-06-26 03:11:01,917 - INFO - Job 21 saved: Technical Product Manager @ LotusFlare
+2025-06-26 03:11:01,960 - INFO - Job 22 saved: Product Manager @ Acefone
+2025-06-26 03:11:01,970 - INFO - Clicking next page...
+2025-06-26 03:11:07,798 - INFO - 
+Scraping Page 6
+2025-06-26 03:11:07,814 - INFO - Scrolling to load more job listings...
+2025-06-26 03:11:30,107 - INFO - Found 21 job cards
+2025-06-26 03:11:30,147 - INFO - Job 1 saved: Product Manager @ TeachEdison
+2025-06-26 03:11:30,183 - INFO - Job 2 saved: Product Managers- Payments (UPI) @ YES BANK
+2025-06-26 03:11:30,219 - INFO - Job 3 saved: Packaging Development Manager @ Frido
+2025-06-26 03:11:30,260 - INFO - Job 4 saved: Senior Product Manager (Fully Remote) @ CoverGo | Insurtech
+2025-06-26 03:11:30,311 - INFO - Job 5 saved: Product Management -Intern @ SkillLabs
+2025-06-26 03:11:30,365 - INFO - Job 6 saved: Product Manager @ Weekday AI (YC W21)
+2025-06-26 03:11:30,412 - INFO - Job 7 saved: Product Development Manager @ Ambrane India
+2025-06-26 03:11:30,466 - INFO - Job 8 saved: Product Manager @ Fairmatic
+2025-06-26 03:11:30,508 - INFO - Job 9 saved: Product Manager @ FinBox
+2025-06-26 03:11:30,552 - INFO - Job 10 saved: Regional Product Manager @ Westcon-Comstor
+2025-06-26 03:11:30,601 - INFO - Job 11 saved: Manager - Product (Dream Play) @ Dream11
+2025-06-26 03:11:30,652 - INFO - Job 12 saved: Product Manager @ Swivl
+2025-06-26 03:11:30,699 - INFO - Job 13 saved: Product Manager @ Meril
+2025-06-26 03:11:30,736 - INFO - Job 14 saved: Growth Product Manager @ NIRA
+2025-06-26 03:11:30,792 - INFO - Job 15 saved: Staff Product Manager @ Chargebee
+2025-06-26 03:11:30,851 - INFO - Job 16 saved: Senior Product Manager @ LeadSquared
+2025-06-26 03:11:30,901 - INFO - Job 17 saved: Product Manager I @ Concentrix
+2025-06-26 03:11:30,941 - INFO - Job 18 saved: Senior Product Manager @ 32ND
+2025-06-26 03:11:30,989 - INFO - Job 19 saved: Group Product Manager - Ads @ Zepto
+2025-06-26 03:11:31,055 - INFO - Job 20 saved: Product Manager - Loyalty & Rewards (Ecom) @ Kwan Ventures
+2025-06-26 03:11:31,113 - INFO - Job 21 saved: RCS Product Manager @ Tata Communications
+2025-06-26 03:11:31,122 - INFO - Clicking next page...
+2025-06-26 03:11:36,920 - INFO - 
+Scraping Page 7
+2025-06-26 03:11:36,934 - INFO - Scrolling to load more job listings...
+2025-06-26 03:11:59,251 - INFO - Found 20 job cards
+2025-06-26 03:11:59,310 - INFO - Job 1 saved: Associate Product Manager @ CaratLane - A TATA Product
+2025-06-26 03:11:59,363 - INFO - Job 2 saved: Product Analyst @ Shipa
+2025-06-26 03:11:59,411 - INFO - Job 3 saved: Justdial - Product Manager - Communication @ Justdial
+2025-06-26 03:11:59,446 - INFO - Job 4 saved: Product Manager @ Tesco Bengaluru
+2025-06-26 03:11:59,481 - INFO - Job 5 saved: Product Manager @ Weekday AI (YC W21)
+2025-06-26 03:11:59,515 - INFO - Job 6 saved: Product Manager - CPO @ Dr. Reddy's Laboratories
+2025-06-26 03:11:59,544 - INFO - Job 7 saved: Associate Product Manager @ Truebil
+2025-06-26 03:11:59,576 - INFO - Job 8 saved: Product Manager- Payment/FinTech Solutions @ HYrEzy Tech Solutions
+2025-06-26 03:11:59,607 - INFO - Job 9 saved: Product Manager – Workplace, Modern Workplace Practice @ Black Box
+2025-06-26 03:11:59,638 - INFO - Job 10 saved: Product Manager @ Trinity Touch
+2025-06-26 03:11:59,669 - INFO - Job 11 saved: Product Manager @ INDmoney
+2025-06-26 03:11:59,711 - INFO - Job 12 saved: Associate Product Manager @ Cvent
+2025-06-26 03:11:59,763 - INFO - Job 13 saved: Product Manager @ Exclusive Networks Singapore
+2025-06-26 03:11:59,806 - INFO - Job 14 saved: Senior Product Manager @ AB InBev APAC
+2025-06-26 03:11:59,865 - INFO - Job 15 saved: Product Manager II - Growth @ Razorpay
+2025-06-26 03:11:59,910 - INFO - Job 16 saved: Product Manager @ Yubi
+2025-06-26 03:11:59,964 - INFO - Job 17 saved: Product Manager - Demat & ASBA @ IDFC FIRST Bank
+2025-06-26 03:12:00,005 - INFO - Job 18 saved: Product Manager @ RentoMojo
+2025-06-26 03:12:00,049 - INFO - Job 19 saved: Product Manager @ Dozee
+2025-06-26 03:12:00,101 - INFO - Job 20 saved: Product Manager @ Cropin
+2025-06-26 03:12:00,110 - INFO - Clicking next page...
+2025-06-26 03:12:05,962 - INFO - 
+Scraping Page 8
+2025-06-26 03:12:05,983 - INFO - Scrolling to load more job listings...
+2025-06-26 03:12:28,331 - INFO - Found 21 job cards
+2025-06-26 03:12:28,382 - INFO - Job 1 saved: Product Manager – Farm n Food @ Delhi Press
+2025-06-26 03:12:28,421 - INFO - Job 2 saved: Product Developer – Accessories (Soft Accessories: Bags, Wallets, Belts, and Headgear) @ Levi Strauss & Co.
+2025-06-26 03:12:28,465 - INFO - Job 3 saved: Product Operations Lead (CEO’s Office) @ Commutatus
+2025-06-26 03:12:28,507 - INFO - Job 4 saved: Product Managers- Payment Gateway @ YES BANK
+2025-06-26 03:12:28,560 - INFO - Job 5 saved: Associate Product Manager @ Ingram Micro
+2025-06-26 03:12:28,600 - INFO - Job 6 saved: Product Manager @ ValGenesis
+2025-06-26 03:12:28,640 - INFO - Job 7 saved: Lead Product Manager @ Swish
+2025-06-26 03:12:28,687 - INFO - Job 8 saved: Product Manager @ JPMorganChase
+2025-06-26 03:12:28,731 - INFO - Job 9 saved: Product Manager II @ Meesho
+2025-06-26 03:12:28,767 - INFO - Job 10 saved: Product Manager-Rural Life Insurance @ IDFC FIRST Bank
+2025-06-26 03:12:28,815 - INFO - Job 11 saved: Product and Proposition Manager @ Barclays
+2025-06-26 03:12:28,852 - INFO - Job 12 saved: Product Manager - Growth @ Chalo
+2025-06-26 03:12:28,894 - INFO - Job 13 saved: Product Manager - Customer Experience @ The Sleep Company
+2025-06-26 03:12:28,936 - INFO - Job 14 saved: Product Operations Manager @ AMINA Bank
+2025-06-26 03:12:28,983 - INFO - Job 15 saved: Senior Product Manager @ Zupee
+2025-06-26 03:12:29,062 - INFO - Job 16 saved: Digital Product Manager @ Japfa Comfeed India Pvt. Ltd.
+2025-06-26 03:12:29,121 - INFO - Job 17 saved: Associate Product Manager @ CLO Virtual Fashion
+2025-06-26 03:12:29,146 - INFO - Job 18 saved: Product Manager - MFD @ Benchire
+2025-06-26 03:12:29,170 - INFO - Job 19 saved: Product Manager / Senior Product Manager (Dermatology) @ Ipca Laboratories Limited, Kandivali
+2025-06-26 03:12:29,193 - INFO - Job 20 saved: Product Manager II @ Razorpay
+2025-06-26 03:12:29,239 - INFO - Job 21 saved: Product Manager - Digital Health (Public Health) @ eGov Foundation
+2025-06-26 03:12:29,247 - INFO - Clicking next page...
+2025-06-26 03:12:34,808 - INFO - 
+Scraping Page 9
+2025-06-26 03:12:34,824 - INFO - Scrolling to load more job listings...
+2025-06-26 03:12:57,107 - INFO - Found 20 job cards
+2025-06-26 03:12:57,153 - INFO - Job 1 saved: Product Manager (SaaS) @ Mokkup.ai
+2025-06-26 03:12:57,194 - INFO - Job 2 saved: Camera product manager @ Transsion
+2025-06-26 03:12:57,230 - INFO - Job 3 saved: Product Manager @ Park+
+2025-06-26 03:12:57,268 - INFO - Job 4 saved: Associate Product Manager @ DotPe
+2025-06-26 03:12:57,305 - INFO - Job 5 saved: Product Manager - Laminates @ Masflair
+2025-06-26 03:12:57,356 - INFO - Job 6 saved: Senior Product Manager @ DBSync
+2025-06-26 03:12:57,396 - INFO - Job 7 saved: Product Operations Manager @ ValGenesis
+2025-06-26 03:12:57,431 - INFO - Job 8 saved: Product Manager @ Xemplar Insights
+2025-06-26 03:12:57,470 - INFO - Job 9 saved: \u4ea7\u54c1\u89e3\u51b3\u65b9\u6848\u7ecf\u7406 @ LONGi Solar
+2025-06-26 03:12:57,511 - INFO - Job 10 saved: Senior Product Manager - Shopx/ New Category @ Zepto
+2025-06-26 03:12:57,549 - INFO - Job 11 saved: Senior Product Manager - B2B SaaS (Energy/ Power Systems) @ PeopleGene
+2025-06-26 03:12:57,591 - INFO - Job 12 saved: Product Manager @ NeuroTags
+2025-06-26 03:12:57,630 - INFO - Job 13 saved: Associate Product Manager @ Ziki
+2025-06-26 03:12:57,659 - INFO - Job 14 saved: Product Manager- SaaS Product- Bangalore @ HYrEzy Tech Solutions
+2025-06-26 03:12:57,690 - INFO - Job 15 saved: Product Manager II @ PagarBook
+2025-06-26 03:12:57,717 - INFO - Job 16 saved: Senior Product Manager @ Razorpay
+2025-06-26 03:12:57,741 - INFO - Job 17 saved: Product Innovation Manager @ AMINA Bank
+2025-06-26 03:12:57,767 - INFO - Job 18 saved: Product Manager @ Grexa AI
+2025-06-26 03:12:57,795 - INFO - Job 19 saved: Product Manager @ HighRadius
+2025-06-26 03:12:57,830 - INFO - Job 20 saved: Product Manager - Diabetes Therapy @ USV PRIVATE LIMITED
+2025-06-26 03:12:57,838 - INFO - Clicking next page...
+2025-06-26 03:13:03,398 - INFO - 
+Scraping Page 10
+2025-06-26 03:13:03,422 - INFO - Scrolling to load more job listings...
+2025-06-26 03:13:25,768 - INFO - Found 22 job cards
+2025-06-26 03:13:25,810 - INFO - Job 1 saved: Associate Product Manager @ Branch International
+2025-06-26 03:13:25,840 - INFO - Job 2 saved: Product Manager @ Apna Mart
+2025-06-26 03:13:25,874 - INFO - Job 3 saved: Product Manager @ Comeet Second Middleware Test Company
+2025-06-26 03:13:25,907 - INFO - Job 4 saved: Product Manager @ Newfold Digital
+2025-06-26 03:13:25,941 - INFO - Job 5 saved: Associate Product Manager / Manager. @ BuzzBoard
+2025-06-26 03:13:25,975 - INFO - Job 6 saved: Principal Product Manager @ Cimpress
+2025-06-26 03:13:26,018 - INFO - Job 7 saved: Product Manager @ Zoca
+2025-06-26 03:13:26,053 - INFO - Job 8 saved: Growth Product Manager @ IDfy
+2025-06-26 03:13:26,089 - INFO - Job 9 saved: Manager - Product (Ads) @ Dream11
+2025-06-26 03:13:26,125 - INFO - Job 10 saved: Information Technology Product Manager @ Chai Point
+2025-06-26 03:13:26,159 - INFO - Job 11 saved: Product Manager - Platform @ Fairmatic
+2025-06-26 03:13:26,202 - INFO - Job 12 saved: Principal Product Manager, Trust Tools @ LinkedIn
+2025-06-26 03:13:26,278 - INFO - Job 13 saved: Product Manager @ Recruin
+2025-06-26 03:13:26,321 - INFO - Job 14 saved: Senior Technical Product Manager, Sports Betting @ TAPPP
+2025-06-26 03:13:26,360 - INFO - Job 15 saved: Lead Product Manager @ Wells Fargo
+2025-06-26 03:13:26,394 - INFO - Job 16 saved: Product Manager @ Publicis Sapient
+2025-06-26 03:13:26,433 - INFO - Job 17 saved: Technical Product Manager - Data @ Guidewire Software
+2025-06-26 03:13:26,479 - INFO - Job 18 saved: Product Manager @ Inizio Advisory
+2025-06-26 03:13:26,526 - INFO - Job 19 saved: Product Manager [T500-18664] @ ANSR
+2025-06-26 03:13:26,566 - INFO - Job 20 saved: Product Manager @ Paperflite
+2025-06-26 03:13:26,597 - INFO - Job 21 saved: Senior Technical Product Manager @ NorthStar HR Consultants
+2025-06-26 03:13:26,634 - INFO - Job 22 saved: Product Manager (AI/ML) @ VAYUZ Technologies
+2025-06-26 03:13:26,643 - INFO - Clicking next page...
+2025-06-26 03:13:32,287 - INFO - 
+Done. 197 jobs saved to CSV, SQLite, and Excel.
